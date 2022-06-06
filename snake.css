@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+body {
+    background: url("../snakeGame/OQCI8I0.jpg");
+    
+    background-size: 100vw;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    text-align: center;
+    
+}
+
+#scoreBox{
+    position: absolute;
+    top: 300px;
+    right: 1200px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
