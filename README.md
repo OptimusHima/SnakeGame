@@ -6,6 +6,8 @@ The basic goal is to navigate a snake and eat as many apples as possible without
 In this article, we will go over step-by-step how to create this Snake Game using JavaScript and HTML.
 
 
+If you want to Play **click Here** :- https://cute-sprinkles-b8dd1d.netlify.app
+
 # **Prerequisites**
 **1.**  Basic CSS knowledge.
 
